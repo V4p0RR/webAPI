@@ -3,7 +3,7 @@
     "host": "localhost",
     "port": 27017,
     "url": "mongodb://localhost:27017/",
-    "database": "web",
+    "database": "admin",
     "password": "",
     "name": "db",
     "user": "",
